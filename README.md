@@ -20,12 +20,6 @@ npm run dev
 
 ```
 nvm use 16
-```
-
-```
 npm i
-```
-
-```
 npm run dev
 ```
