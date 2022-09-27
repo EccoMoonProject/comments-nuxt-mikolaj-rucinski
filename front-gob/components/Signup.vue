@@ -1,5 +1,5 @@
 <template>
-    <!--make simple signup page-->
+    
     <CBox d="flex" w="500px" h="500px" flex-dir="column" justify-content="center" align-items="center" border="1px"
         border-color="gray.200" rounded="md" p="4">
         <CHeading text-align="center" mb="4">
